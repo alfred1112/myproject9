@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f58511c0-f926-403b-9d7b-7df7219a0389" name="Changes" comment="Student">
+    <list default="true" id="f58511c0-f926-403b-9d7b-7df7219a0389" name="Changes" comment="getAverage">
+      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/brian/score/ScoringFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/brian/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brian/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -147,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655448773238</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="getAverage">
+      <created>1655449673704</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655449673704</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +177,8 @@
     <MESSAGE value="Merged" />
     <MESSAGE value="Hello world with Kotlin" />
     <MESSAGE value="Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student" />
+    <MESSAGE value="getAverage" />
+    <option name="LAST_COMMIT_MESSAGE" value="getAverage" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
